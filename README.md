@@ -1,5 +1,5 @@
-# mwwz-shape-match
-I've been writing a shape-based template matching algorithm，like find_shape_model、find_scaled_shape_model in halcon.  It already has some features(Support rotation, scaling, subpixel position), The program can be downloaded and used, and I hope more people will communicate with me to improve it. my email is nbamanu@gmail.com, my qq is 66557370.
+# the shape-based matching
+I've been writing a shape-based template matching algorithm，like find_shape_model、find_scaled_shape_model in halcon.  It already has some features(Support rotation, scaling, subpixel position), The program can be downloaded and used, and I hope more people will communicate with me to improve it. my email is nbamanu@gmail.com, my qq is 66557370, my blog:https://blog.csdn.net/manuoo?spm=1000.2115.3001.5343
 
 ![image](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/c3110adf-fdb1-4328-a327-a99459d0fbc2)
 ![image](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/2fd9027f-5d93-4e8f-ab17-c614ec969df5)
