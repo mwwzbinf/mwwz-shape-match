@@ -1,6 +1,7 @@
 
 # the shape-based matching
 I've been writing a shape-based template matching algorithm，like find_shape_model、find_scaled_shape_model、find_aniso_shape_model in halcon.  It already has some features(Support rotation, scaling, subpixel position, create model from circle or rectangle), The program can be downloaded and used, I hope more people will disscus with me and improve it. my email is nbamanu@gmail.com, my qq is 66557370, my blog:https://blog.csdn.net/manuoo?spm=1000.2115.3001.5343
+Click the button at the bottom right to change the language, [EN] is English, [CH] is Chinese.
 
 ![en1](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/a191da7a-ab04-4253-be17-73495e3c7570)
 ![en2](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/e6446733-46f8-4421-bac5-61fe39fbae63)
