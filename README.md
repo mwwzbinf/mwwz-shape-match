@@ -16,4 +16,4 @@ Click the button at the bottom right to change the language, [EN] is English, [C
 ![rk3588_4](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/4d4d46e9-a82c-4357-a1ec-27c58fc26e85)
 ![android_1](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/e059087c-6d91-4316-beb2-a65ba5647e8e)
 ![android_2](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/f3b3875d-4453-4f93-82d2-a6ec32adbce3)
-![multi_models](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/498c42c6-e2ab-40a6-ab05-3e3b21aff0c3)
+![multi_models7](https://github.com/mwwzbinf/mwwz-shape-match/assets/133193722/ef85fbae-26cc-446e-87fc-fc9f1c946d46)
